@@ -10,7 +10,7 @@ My name is **neghi**
 
 - [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neghi14&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
-- [Read Me Stats](https://github-readme-stats.vercel.app/api?username=neghi14)
+- [![Read Me Stats](https://github-readme-stats.vercel.app/api?username=neghi14)](https://git.io/streak-stats)
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me
