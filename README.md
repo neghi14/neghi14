@@ -8,7 +8,7 @@ My name is **neghi**
 - 👯 I’m looking to collaborate on Fun and Insightful projects
 - 💻 Currently a contribuitor @ [Rezact](https://rezact.io)
 
-- [!](https://github-readme-stats.vercel.app/api?username=neghi14)
+- (https://github-readme-stats.vercel.app/api?username=neghi14)
 <!--- 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me
