@@ -13,3 +13,4 @@ My name is **neghi**
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... >
 
+[https://github-readme-stats.vercel.app/api?username=neghi14]
